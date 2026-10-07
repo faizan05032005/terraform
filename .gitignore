@@ -1,0 +1,9 @@
+# Terraform caches and state
+**/.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Binaries and archives
+*.zip
+aws/
